@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="Extra.xsl"?>
+<otaku>
+	<mangas>
+		<manga>
+			<nombre>Manga Reader</nombre>
+			<link id="link">http://mangareader.cc</link>
+		</manga>
+		<manga>
+			<nombre>Freak</nombre>
+			<link id="link">https://mangafreak.eu</link>
+		</manga>
+		<manga>
+			<nombre>Tumangaonline</nombre>
+			<link id="link">https://lectortmo.com</link>
+		</manga>
+		<manga>
+			<nombre>Nekoanime</nombre>
+			<link id="link">https://anime-esp.com</link>
+		</manga>
+		<manga>
+			<nombre>Chrunchyroll</nombre>
+			<link id="link">https://www.crunchyroll.com/es</link>
+		</manga>
+		<manga modo="subtitulado">
+			<nombre>Bato</nombre>
+			<link id="link">https://bato.to</link>
+		</manga>
+	</mangas>
+	<webtoons>
+		<webtoon>
+			<nombre>Doramas</nombre>
+			<link id="link">https://www23.estrenosdoramas.net</link>
+		</webtoon>
+		<webtoon>
+			<nombre>Doramas Mp4</nombre>
+			<link id="link">https://doramasmp4.com</link>
+		</webtoon>
+		<webtoon>
+			<nombre>Viki</nombre>
+			<link id="link">https://www.viki.com</link>
+		</webtoon>
+		<webtoon>
+			<nombre>Drama Cool</nombre>
+			<link id="link">https://www.dramacool9.co</link>
+		</webtoon>
+		<webtoon>
+			<nombre>Asian Crush</nombre>
+			<link id="link">https://www.asiancrush.com</link>
+		</webtoon>
+		<webtoon>
+			<nombre>Pandrama</nombre>
+			<link id="link">https://pandrama.com</link>
+		</webtoon>
+	</webtoons>
+	<animes>
+		<anime>
+			<nombre>AnimeFLV</nombre>
+			<link id="link">https://www.animeflv.net</link>
+		</anime>
+		<anime>
+			<nombre>JkAnime</nombre>
+			<link id="link">https://jkanime.net</link>
+		</anime>
+		<anime>
+			<nombre>Tu Anime Ligero</nombre>
+			<link id="link">https://tuanimeligero.net</link>
+		</anime>
+		<anime>
+			<nombre>Anime Fénix</nombre>
+			<link id="link">https://animefenix.com</link>
+		</anime>
+		<anime metodo="pago">
+			<nombre>Chrunchyroll</nombre>
+			<link id="link">https://www.crunchyroll.com/es</link>
+		</anime>
+	</animes>
+</otaku>
+<!-- xslttest.appspot.com -->
+<!--xsl attribute-->

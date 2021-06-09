@@ -1,0 +1,120 @@
+body{
+	background-image:url("sao.jpg");
+	background-size: cover;
+	background-attachment: fixed
+}
+/*Para poder centrar la imagen me he basado en una solución de una página
+web que luego he modificado mucho*/
+
+#buscar{
+	float:right;
+}
+
+#buscar #button{
+	visibility:hidden;
+}
+h1{
+	color:blue;
+}
+a{
+	color:darkblue;
+}
+
+#cabeza{
+	border:2px solid black;
+	border-radius:10px;
+	margin-right:330px;
+	padding-left:5px;
+	background-color:transparent;
+	color:white;
+}
+
+#cabeza p{
+	color:bold;
+}
+
+aside{
+	border:2px solid;
+	border-radius:10px;
+	float:right;
+	width:20%;
+ 	padding-left:5px;
+	margin-left:15px; 
+}
+
+#Whatsapp a{
+	color:darkgreen;
+}
+
+#Facebook a{
+	color:darkblue;
+	float:right;
+	margin-right:5px;
+}
+
+#Twitter a{
+	color:lightblue;
+}
+
+#Instagram a{
+	color:orange;
+	float:right;
+	margin-right:5px;
+}
+
+#TikTok a{
+	color:#FF0070;
+}
+
+#Youtube a{
+	color:red;
+	float:right;
+	margin-right:5px;
+}
+
+#Twitch img{
+	color:purple;
+}
+
+#pie{ margin-bottom:0px; }
+#pie .nombre{ float:left; 
+color:white;}
+#pie .copyright{ float:right;
+color:white; }
+
+#extra{
+	float:left;
+	border-radius:30px;
+	margin-right:10em;
+	color:lightblue;
+}
+
+#google{
+	float:left;
+	border-radius:30px;
+	margin-right:10em;
+}
+
+#cuerpo{
+	border:2px solid black;
+	border-radius:10px;
+	background-color:transparent;
+	padding-left:5px;
+	color:white;
+}
+
+#leveling{
+	border:2px solid black;
+	border-radius:10px;
+	padding-left:5px;
+	background-color:transparent;
+	color:white;
+}
+#leveling img{
+	width:400px;
+}
+
+#leveling #derecha{
+	float:right;
+	margin-right:10px;
+}
